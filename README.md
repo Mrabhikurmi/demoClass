@@ -1,2 +1,2 @@
 # demoClass
-just trying
+just trying.
